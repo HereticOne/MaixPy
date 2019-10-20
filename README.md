@@ -1,5 +1,5 @@
-<img width=205 src="02_1200x1200.webp">
-<img width=205 src="a1_a81d3835-03a5-4774-ba48-93948e88853a.webp">
+<img width=205 src="assets/image/StickV.jpg">
+<img width=205 src="assets/image/pins.jpg">
 
 
 <img width=205 src="assets/image/maixpy.png">
