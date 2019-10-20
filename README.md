@@ -64,7 +64,6 @@ Maixpy is designed to make AIOT programming easier, based on the [Micropython](h
 > * FPIOA (Periphrals can map to any pins)
 > * Peripherals: I2C, SPI, I2S, WDT, TIMER, RTC, UART, GPIO etc.
 
-![](assets/image/maix_bit.png)
 
 ## Simple code
 
